@@ -7,4 +7,4 @@ How to run the algorithm:
 
 Use prompted inputs:
 4. Input the number of recorded coordinates
-5. Input the coordinates (seperate each value by a space)
+
