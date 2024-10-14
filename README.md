@@ -1,4 +1,4 @@
-# Wildlife-Monitoring-System-Algo1
+Names: Andrewdai Truong and Stephany Murillo Munoz
 
 Wildlife Monitoring Stystem - Algorithm 1
 How to run the algorithm:
