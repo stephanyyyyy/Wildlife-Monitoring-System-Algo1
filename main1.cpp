@@ -15,7 +15,6 @@ struct Coordinate
 	int loc; // animal's location 
 };
 
-
 // function prototypes
 void traverseLocations(vector<int> location);
 
@@ -45,29 +44,6 @@ int main()
 	{
 		location[i] = coordinates[i].loc;
 	}
-
-	cout << "These are the locations: ";
-	for (int i = 0; i < numCoord ; ++i)
-	{
-		cout << location[i] << " ";
-	}
-
-	cout << endl;
-
-	// display coordinates entered 
-	cout << "Coordinates entered: [";
-	for (size_t i = 0; i < coordinates.size(); ++i)
-	{
-		if (i == coordinates.size() - 1)
-		{
-			cout << "(" << coordinates[i].stepNum << ", " << coordinates[i].loc << ")";
-		}
-		else
-		{
-			cout << "(" << coordinates[i].stepNum << ", " << coordinates[i].loc << "), ";
-		}
-	}
-	cout << "]" << endl << endl;
 
 	traverseLocations(location);
 	
