@@ -11,10 +11,10 @@ Use prompted inputs:
 
 Greedy Algorithm - Algorithm 2
 Execution of Algorithm.
-Step 1: Clone/Download the files into a folder.
-Step 2: Compile the code by using command "g++ main.cpp"
-Step 3: Test Compiler using command "./a.exe"
+1. Clone/Download the files into a folder.
+2. Compile the code by using command "g++ main.cpp"
+3. Test Compiler using command "./a.exe"
 
 While Testing:
 Step 4: Input a starting city # from 1 to 5
-Note: All valid input should be able to traverse back to itself.
+NOTE: All valid input should be able to traverse back to itself.
